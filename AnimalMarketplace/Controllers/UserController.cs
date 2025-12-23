@@ -1,15 +1,10 @@
 using System.Security.Claims;
-using AnimalMarketplace.Database.DbContexts;
 using AnimalMarketplace.Database.Dto;
 using AnimalMarketplace.Database.DTO;
 using AnimalMarketplace.Database.Dto.Response;
-using AnimalMarketplace.Models;
-using AnimalMarketplace.Repositories.Interfaces;
 using AnimalMarketplace.Services;
 using FluentValidation;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AnimalMarketplace.Controllers

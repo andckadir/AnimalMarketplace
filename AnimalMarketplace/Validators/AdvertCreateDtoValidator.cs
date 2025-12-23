@@ -1,4 +1,3 @@
-// Validators/AdvertCreateDTOValidator.cs
 using AnimalMarketplace.Database.DTO;
 using FluentValidation;
 

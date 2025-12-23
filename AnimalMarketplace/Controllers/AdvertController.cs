@@ -1,5 +1,3 @@
-// Controllers/AdvertController.cs
-
 using System.Security.Claims;
 using AnimalMarketplace.Database.Dto;
 using AnimalMarketplace.Database.DTO;
