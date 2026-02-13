@@ -1,8 +1,3 @@
-Sana profesyonel, backend odaklı ve teknik görünen bir README.md hazırlıyorum.
-Bu README GitHub’da projeni ciddi gösterir 🔥
-
-Aşağıyı direkt README.md dosyasına koyabilirsin.
-
 🐾 Animal Marketplace Web Application
 
 A full-stack web application designed for secure and structured pet trading, adoption, and advertisement management.
@@ -129,4 +124,5 @@ Payment integration
 Map-based advert visualization
 
 Docker deployment
+
 
